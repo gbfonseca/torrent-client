@@ -1,0 +1,9 @@
+[package]
+name = "torrent-client"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+serde = "1.0.204"
+serde_bencode = "0.2.4"
+serde_derive = "1.0.204"
